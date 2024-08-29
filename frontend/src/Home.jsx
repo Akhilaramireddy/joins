@@ -8,7 +8,7 @@ const Home = () => {
     email: "",
     password: "",
   });
-//comments
+//comments to add to the git hub
   const handleChnage = (event) => {
     setInputUser({
       ...inputUser,
